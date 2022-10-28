@@ -19,6 +19,7 @@ header {
   position: sticky;
   top: 0;
   display: flex;
+  border-bottom: 3px solid var(--secondary-color);
 }
 
 header h1 a {
@@ -75,6 +76,7 @@ footer {
   justify-content: space-between;
   flex-wrap: wrap;
   margin-top: auto;
+  border-top: 3px solid var(--secondary-color);
 }
 
 footer div {
